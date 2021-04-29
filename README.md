@@ -3,7 +3,6 @@
 web-teknolojileri-projesi 
 Muhammed Hakan Cansu
 G201210013
-GitHub Link: https://github.com/hakancansu/Web-Teknolojileri
  
 Projenin Amacı: 
 -	Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi geliştirmek. 
